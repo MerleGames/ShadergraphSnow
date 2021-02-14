@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SnowProceduralF
+  m_Shader: {fileID: -6465566751694194690, guid: e490a0e72e88347579d661437ebdcaca,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_14EDD74D:
+        m_Texture: {fileID: 2800000, guid: aee313666f6454b14b84b9db77bd450f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_3B95D7D_Out_0:
+        m_Texture: {fileID: 2800000, guid: 5055015bc195e4c1e87c553519909c65, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_EB136007_Out_0:
+        m_Texture: {fileID: 2800000, guid: 5177c2ef8895a44fca09bbe4f03cad29, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_263516A4: 4
+    - Vector1_2F91FD3E: 4
+    - Vector1_36E0C910: 80
+    - Vector1_3B55A5FE: -2
+    - Vector1_44D7F09C: 16
+    - Vector1_4754E646: 0.25
+    - Vector1_534B6043: 0.25
+    - Vector1_7326BFB7: 4
+    - Vector1_7D6407D6: 1
+    - Vector1_B37543F: 4
+    - Vector1_BE569EEA: 0.5
+    - Vector1_CB30155A: 2
+    - Vector1_F79D3A65: 0.25
+    m_Colors:
+    - Color_35608FF6: {r: 0.7921569, g: 0.7921569, b: 0.9098039, a: 0}
+    - Color_94FBFA88: {r: 0.7921569, g: 0.7921569, b: 0.9098039, a: 0}
